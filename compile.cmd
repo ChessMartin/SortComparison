@@ -1,0 +1,1 @@
+gcc -L./lib -I./include src/*.c -o bin/main.exe -lmingw32 -lSDL2main -lSDL2 -Wall
